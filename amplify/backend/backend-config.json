@@ -1,1 +1,9 @@
-{}
+{
+  "function": {
+    "testbix": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
